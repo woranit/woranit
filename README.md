@@ -3,6 +3,7 @@
 an ordinary com eng student 
 
 - 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on **Vue3 + Vuetify3**
 
 <!--
 **woranit/woranit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
